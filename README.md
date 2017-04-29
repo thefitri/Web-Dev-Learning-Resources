@@ -5,10 +5,13 @@ Books
 [Eloquent JavaScript](http://eloquentjavascript.net/) (Free)  
 [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) (Free)  
 
-Projects  
-[JavaScript 30](https://javascript30.com/) (Free)  
-
 Tutorials and Camps  
 [ES6 for Everyone](https://es6.io/) (Paid)  
 [FreeCodeCamp](https://freecodecamp.com) (Free)  
 [Treehouse](https://teamtreehouse.com/) (Paid)  
+
+Projects  
+[JavaScript 30](https://javascript30.com/) (Free)  
+
+Other Resources  
+[Dev Mastery](https://devmastery.com/) (Free)  
