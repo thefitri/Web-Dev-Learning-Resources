@@ -1,5 +1,6 @@
-# Web Development Resources
-Resources I used or am using to learn web development. My Background: Most of these resources don't include HTML/CSS as I've been using them for years now and have developed several web apps on CakePHP and CodeIgniter.
+#Dev Resources
+##Web Development
+Resources I used or am using to learn web development.
 
 Books  
 [Eloquent JavaScript](http://eloquentjavascript.net/) (Free)  
@@ -15,3 +16,13 @@ Projects
 
 Other Resources  
 [Dev Mastery](https://devmastery.com/) (Free)  
+
+Youtube Channels  
+[LearnCode.academy](https://www.youtube.com/user/learncodeacademy)  
+
+Podcasts
+[Code Newbie](http://www.codenewbie.org/)  
+[Coder Catchup](http://codercatchup.com/)  
+[Dads in Development](http://www.dadsindev.com/)  
+[Developer Tea](https://spec.fm/podcasts/developer-tea)  
+[Five Minute Geek Show](http://www.fiveminutegeekshow.com/)  
