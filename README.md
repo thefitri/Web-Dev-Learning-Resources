@@ -1,6 +1,10 @@
 # Dev Resources
+
+Background:  
+I have working knowledge of HTML/CSS before I started so I have not included any basic HTML/CSS tutorials down below. There's a lot of great sites which cater to beginners (for a fee) like Codecademy, CodeSchool, Treehouse, Udemy, Udacity, etc. But I did not include them here because I do not want to review each services. Though I did personally went for Treehouse (and went half way through their techdegree) I found that long video tutorials are simply not for me (Well, there's sites like egghead.io but then I have to list all of the myriads of paid intermediate level resources, so, No). The takeaway, if any, is to choose the kind of resources that are right for you and not give up learning.
+
 ## Web Development
-Resources I used or am using to learn web development. Most of these resources are free, paid ones are labelled accordingly.
+Free Resources I used or am using to learn web development.
 
 ### Books
 [Eloquent JavaScript](http://eloquentjavascript.net/)  
@@ -14,10 +18,10 @@ Resources I used or am using to learn web development. Most of these resources a
 [Treehouse](https://teamtreehouse.com/) (Paid)  
 
 ### Projects
-[JavaScript 30](https://javascript30.com/) (Free)  
+[JavaScript 30](https://javascript30.com/)  
 
 ### Other Resources
-[Dev Mastery](https://devmastery.com/) (Free)  
+[Dev Mastery](https://devmastery.com/)  
 
 ### Youtube Channels
 [LearnCode.academy](https://www.youtube.com/user/learncodeacademy)  
