@@ -15,7 +15,6 @@ Free Resources I used or am using to learn web development.
 [ES6 for Everyone](https://es6.io/) (Paid)  
 [FreeCodeCamp](https://freecodecamp.com)  
 [Learn ES2015](http://babeljs.io/learn-es2015/)  
-[Treehouse](https://teamtreehouse.com/) (Paid)  
 
 ### Projects
 [JavaScript 30](https://javascript30.com/)  
