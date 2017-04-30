@@ -32,7 +32,7 @@ Resources I used or am using to learn web development.
 [Dev Mastery](https://devmastery.com/)  
 
 ### Podcasts
-(I've included podcasts because I personally think it's a good way to gauge your knowledge and to know what's out there especially if you're not part of a developer circle or network. Another method is to join Slack channels. Some of the resources above and below have their own slack channel, find out and join)
+(I've included podcasts because I personally think it's a good way to gauge your knowledge and to know what's out there especially if you're not part of a developer circle or network. Another method is to join Slack channels. Some of the resources above and below have their own slack channel, find out and join)  
 [Code Newbie](http://www.codenewbie.org/)  
 [Coder Catchup](http://codercatchup.com/)  
 [Dads in Development](http://www.dadsindev.com/)  
