@@ -26,7 +26,7 @@ Resources I used or am using to learn web development.
 ### Videos
 [LearnCode.academy](https://www.youtube.com/user/learncodeacademy)  
 [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)  
-[What the heck is the event loop anyway]https://www.youtube.com/watch?v=8aGhZQkoFbQ
+[What the heck is the event loop anyway](https://www.youtube.com/watch?v=8aGhZQkoFbQ)  
 
 ### Other Resources
 [Dev Mastery](https://devmastery.com/)  
