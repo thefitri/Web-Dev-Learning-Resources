@@ -7,6 +7,7 @@ Resources I used or am using to learn web development.
 [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) (Free)  
 
 ### Tutorials and Camps
+[Learn ES2015](http://babeljs.io/learn-es2015/) (Free)  
 [ES6 for Everyone](https://es6.io/) (Paid)  
 [FreeCodeCamp](https://freecodecamp.com) (Free)  
 [Treehouse](https://teamtreehouse.com/) (Paid)  
@@ -19,6 +20,7 @@ Resources I used or am using to learn web development.
 
 ### Youtube Channels
 [LearnCode.academy](https://www.youtube.com/user/learncodeacademy)  
+[The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 
 ### Podcasts
 [Code Newbie](http://www.codenewbie.org/)  
