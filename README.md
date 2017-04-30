@@ -1,15 +1,16 @@
 # Dev Resources
 ## Web Development
-Resources I used or am using to learn web development.
+Resources I used or am using to learn web development. Most of these resources are free, paid ones are labelled accordingly.
 
 ### Books
-[Eloquent JavaScript](http://eloquentjavascript.net/) (Free)  
-[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) (Free)  
+[Eloquent JavaScript](http://eloquentjavascript.net/)  
+[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)  
 
 ### Tutorials and Camps
-[Learn ES2015](http://babeljs.io/learn-es2015/) (Free)  
+[A re-introduction to JavaScript (JS tutorial)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)  
 [ES6 for Everyone](https://es6.io/) (Paid)  
-[FreeCodeCamp](https://freecodecamp.com) (Free)  
+[FreeCodeCamp](https://freecodecamp.com)  
+[Learn ES2015](http://babeljs.io/learn-es2015/)  
 [Treehouse](https://teamtreehouse.com/) (Paid)  
 
 ### Projects
