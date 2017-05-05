@@ -18,6 +18,7 @@ Resources I used or am using to learn web development.
 - [Four Semesters of Computer Science in 6 Hours](https://btholt.github.io/four-semesters-of-cs/)
 - [FreeCodeCamp](https://freecodecamp.com)
 - [HTML Dog](http://htmldog.com/)
+- [JS the Right Way](http://jstherightway.org/)
 - [Learn ES2015](http://babeljs.io/learn-es2015/)
 - [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
 - [Simplified JS Jargon](https://github.com/HugoGiraudel/SJSJ)
